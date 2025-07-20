@@ -2,6 +2,3 @@ fastapi
 motor
 uvicorn
 pydantic
-
-Run The App
-uvicorn main:app --reload
