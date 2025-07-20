@@ -1,7 +1,7 @@
-pip install fastapi
-pip install motor
-pip install uvicorn
-pip install pydantic
+fastapi
+motor
+uvicorn
+pydantic
 
 MongoDB database Connection Link
 ---------------------------------
