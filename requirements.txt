@@ -3,11 +3,5 @@ motor
 uvicorn
 pydantic
 
-MongoDB database Connection Link
----------------------------------
-
-mongodb+srv://<db_username>:<db_password>@cluster0.q47kc6j.mongodb.net/
-
 Run The App
-------------
- uvicorn main:app --reload
+uvicorn main:app --reload
